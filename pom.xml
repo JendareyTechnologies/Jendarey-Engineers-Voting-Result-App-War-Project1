@@ -84,7 +84,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>votingwebapp</finalName>
+        <finalName>practical-interview</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
